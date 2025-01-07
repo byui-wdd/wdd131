@@ -10,7 +10,7 @@ time: 30min
 
 Questions that might be helpful could be:
 
-- What problems can arise when...?
+- What problems can arise when... ?
 - Can you give me a specific example? (or another example)
 - Are there any other ways to do this?
 - Can you give me more information on...?
