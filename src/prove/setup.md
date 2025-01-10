@@ -4,7 +4,7 @@ description: This activity will have you create a Github repository that will be
 time: 15 minutes
 ---
 
-## **01** Check to make sure you have git installed.
+## **01** Check to make sure you have git installed. (review)
 
 Begin by opening up a command prompt for your operating system. The easiest way to do this would be to open VS Code and open a terminal (ctrl + ~). Enter the following:
 
