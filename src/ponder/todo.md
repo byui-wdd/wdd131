@@ -1,10 +1,9 @@
 ---
 title: DOM Events - Ponder
-description: Practice using DOM Events
-date: 2021-10-15
-
-layout: layouts/post.njk
 ---
+
+
+- - -
 
 ## Preparation
 
